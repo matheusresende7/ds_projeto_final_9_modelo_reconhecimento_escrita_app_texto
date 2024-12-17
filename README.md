@@ -7,11 +7,7 @@
 
 
 ## Descrição
-xxxxxxxxxxxxxxxxxxxxxxxxx Nesse projeto de Ciência de Dados, resumidamente, foi realizada uma ampla análise exploratória gerando os principais insights do projeto e permitindo identificar duas principais personas para os clientes de uma plataforma de delivery. 
-
-Em seguida, foi criado um modelo de clusterização usando K-Means para identificar melhor as personas dos clientes e permitindo assim a empresa direcionar melhor a campanha de marketing para os clientes que tem a maior probabilidade de aceitá-la. 
-
-Por fim, foi criado um modelo de classificação usando Regressão Logística para prever se os clientes devem ou não aceitar as futuras campanhas de marketing da empresa.                                                                                                 |
+Nesse projeto de Ciência de Dados, foi realizada uma análise exploratória a fim de entender a fundo as imagens de dígitos manuscritos e como é na prática a função de cada pixel em escala de cinza para a formação de uma imagem. Após isso, foram criados alguns modelos de Deep Learning usando o TensorFlow e o Keras, para que pudesse classificar corretamente os dígitos a que eram expostos. Na criação desses modelos foram utilizadas técnicas de pré processamento, data augmentation, Redes Neurais Convolucionais (CNN), otimização de hiperparâmetros com Keras Tuner e ajustes para evitar overfitting, usando métricas como loss e accuracy. Por fim, o modelo foi exposto à uma avaliação com dados reais, onde classificou dígitos escritos por pessoas reais e teve uma taxa de acertividade de 90%. Dessa forma, esse modelo permite sua aplicação em um aplicativo de transcrição de texto ou anotações, para reconhecer a escrita dos usuários caso venham a escrever manualmente em um tablet, por exemplo.
 
 
 ## Overview do dataset
